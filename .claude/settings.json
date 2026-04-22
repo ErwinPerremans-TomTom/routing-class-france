@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '{\"hookSpecificOutput\": {\"hookEventName\": \"SessionStart\", \"additionalContext\": \"Continue the Routing Class France project — see memory for full context.\"}}'",
+            "statusMessage": "Loading Routing Class France context..."
+          }
+        ]
+      }
+    ]
+  }
+}
